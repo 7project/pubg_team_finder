@@ -1,0 +1,57 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "noResults": "No results found"
+  },
+  "auth": {
+    "loginWithDiscord": "Login with Discord",
+    "logout": "Logout"
+  },
+  "profile": {
+    "title": "Profile",
+    "pubgNickname": "PUBG nickname",
+    "pubgRank": "Rank",
+    "tiktok": "TikTok",
+    "youtubeShorts": "YouTube Shorts",
+    "privacy": "Privacy settings",
+    "privacyGroupOnly": "Group only",
+    "privacyPublic": "Everyone",
+    "privacyNoInvites": "No invites"
+  },
+  "match": {
+    "title": "Player Search",
+    "suggestions": "Suggested players",
+    "createMatch": "Create match",
+    "invite": "Invite",
+    "complete": "Complete match",
+    "discordLink": "Open Discord"
+  },
+  "rating": {
+    "title": "Rate Players",
+    "friendliness": "Friendliness",
+    "skill": "Skill",
+    "adequacy": "Adequacy",
+    "character": "Character",
+    "activity": "Activity",
+    "active": "Active",
+    "passive": "Passive",
+    "average": "Average",
+    "inadequate": "Inadequate",
+    "comment": "Comment",
+    "submit": "Submit rating"
+  },
+  "groups": {
+    "title": "My Groups",
+    "create": "Create group",
+    "members": "Members",
+    "addMember": "Add member",
+    "removeMember": "Remove member"
+  }
+}

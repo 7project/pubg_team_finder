@@ -1,0 +1,7 @@
+# === Secrets (DO NOT COMMIT) ===
+# Main environment file with Discord tokens, JWT secret, DB password
+infrastructure/.env
+
+# Catch-all for any other .env files
+*.env
+!.env.example

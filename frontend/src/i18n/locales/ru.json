@@ -1,0 +1,57 @@
+{
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "noResults": "Ничего не найдено"
+  },
+  "auth": {
+    "loginWithDiscord": "Войти через Discord",
+    "logout": "Выйти"
+  },
+  "profile": {
+    "title": "Профиль",
+    "pubgNickname": "PUBG никнейм",
+    "pubgRank": "Ранг",
+    "tiktok": "TikTok",
+    "youtubeShorts": "YouTube Shorts",
+    "privacy": "Настройки приватности",
+    "privacyGroupOnly": "Только группа",
+    "privacyPublic": "Все",
+    "privacyNoInvites": "Не принимать приглашения"
+  },
+  "match": {
+    "title": "Подбор игроков",
+    "suggestions": "Рекомендованные игроки",
+    "createMatch": "Создать матч",
+    "invite": "Пригласить",
+    "complete": "Завершить матч",
+    "discordLink": "Открыть Discord"
+  },
+  "rating": {
+    "title": "Оценка игроков",
+    "friendliness": "Доброжелательность",
+    "skill": "Скилл",
+    "adequacy": "Адекватность",
+    "character": "Характер",
+    "activity": "Активность",
+    "active": "Активный",
+    "passive": "Пассивный",
+    "average": "Средний",
+    "inadequate": "Неадекватен",
+    "comment": "Комментарий",
+    "submit": "Отправить оценку"
+  },
+  "groups": {
+    "title": "Мои группы",
+    "create": "Создать группу",
+    "members": "Участники",
+    "addMember": "Добавить участника",
+    "removeMember": "Удалить участника"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.idea
+.vscode
+*.md
+!package.json
+!package-lock.json
